@@ -275,3 +275,7 @@ a.paper-honor:hover{text-decoration:underline;text-underline-offset:3px}
 .paper-resources{gap:8px 10px}.selected-paper{scroll-margin-top:90px}
 .hf-dataset-links{max-width:calc(100vw - 48px)}
 @media(max-width:760px){#selected-heading .section-link{font-size:16px}.selected-paper{scroll-margin-top:16px}}
+
+/* Larger primary navigation */
+.site-nav .brand,.site-nav .nav-links a{font-size:20px}
+@media(max-width:760px){.site-nav .brand,.site-nav .nav-links a{font-size:16px}}
