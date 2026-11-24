@@ -279,3 +279,6 @@ a.paper-honor:hover{text-decoration:underline;text-underline-offset:3px}
 /* Larger primary navigation */
 .site-nav .brand,.site-nav .nav-links a{font-size:20px}
 @media(max-width:760px){.site-nav .brand,.site-nav .nav-links a{font-size:16px}}
+
+/* Homepage visitor map */
+.visitor-section{margin-top:35px}.visitor-map{max-width:520px;margin:0 auto}.visitor-map img,.visitor-map iframe{max-width:100%}.visitor-details{display:block;width:fit-content;margin:10px auto 0;font-size:13px;color:var(--muted)}
